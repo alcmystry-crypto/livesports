@@ -17,15 +17,3 @@ https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=E
 
 #EXTINF:-1 group-title="Sports" tvg-name="FIFA Live (cdn)",FIFA Live (cdn)
 https://trs1.aynaott.com/tsports/index.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-name="Fox Sports 1",Fox Sports 1
-https://iptv-org.github.io/iptv/countries/br.m3u
-
-#EXTINF:-1 group-title="Sports" tvg-name="Bein Max 2",Bein Max 2
-https://inproviszon.st/beinmax-2.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-name="Fox 4K",Fox 4K
-https://inproviszon.st/fox4k-1.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-name="TSN 4K",TSN 4K
-https://inproviszon.st/tsn4k.m3u8
