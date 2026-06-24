@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Sports" tvg-name="Toffee 4",Toffee 4
+https://sm-monirul.top/tof/live/toffee4/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="Gervsivo",Gervsivo
+https://sm-monirul.top/tof/live/gervsivo/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="Ecuvscur",Ecuvscur
+https://sm-monirul.top/tof/live/ecuvscur/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="Tunvsjap",Tunvsjap
+https://sm-monirul.top/tof/live/tunvsjap/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="FIFA 2026 (1750)",FIFA 2026 (1750)
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/0/master_1750.m3u8?hdntl=Expires=1782329471~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwveZHILkN1HRHURQAcG_GDm3JnPe4JcVO8lbJW1mEBpPM5D0sYLIXCAk-F0ICIrSaWJ0fSUlMgNWhb07CgsYbj4I
+
+#EXTINF:-1 group-title="Sports" tvg-name="FIFA Live (cdn)",FIFA Live (cdn)
+https://trs1.aynaott.com/tsports/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="Fox Sports 1",Fox Sports 1
+https://iptv-org.github.io/iptv/countries/br.m3u
+
+#EXTINF:-1 group-title="Sports" tvg-name="Bein Max 2",Bein Max 2
+https://inproviszon.st/beinmax-2.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="Fox 4K",Fox 4K
+https://inproviszon.st/fox4k-1.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-name="TSN 4K",TSN 4K
+https://inproviszon.st/tsn4k.m3u8
